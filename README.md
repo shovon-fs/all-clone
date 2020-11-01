@@ -8,6 +8,8 @@
 
 # pip2 install mechanize
 
+# git clone https://github.com/shovon-fs/all-clone.git
+
 # cd all-clone
 
 # python2 shovon.py
